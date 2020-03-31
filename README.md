@@ -27,7 +27,11 @@ REQUIRMENTS
 ~~~~
 
 MANAGER: IP or FQDN of the DSSC server
+
 PORT: DSSC Port.  Usually 443
+
 USER_NAME: DSSC User Name
+
 PASSWORD: DSSC Password
+
 SCAN_ID: Scan ID from the DSSC console
